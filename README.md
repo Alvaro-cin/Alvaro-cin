@@ -1,5 +1,17 @@
-### Olá, eu sou o Álvaro! 👋
 
-🔗 Me acompanhe nas redes:
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https_alvim)
+## 👋 Olá, eu sou Alvaro!
+
+
+
+---
+
+### 🌐 Me siga no Instagram
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_alvim/)
+
+---
+
+
+</div>
