@@ -1,3 +1,5 @@
 ### Olá, eu sou o Álvaro! 👋
 
-📸 Me siga no Instagram: [@https_alvim](https://instagram.com/https_alvim)
+🔗 Me acompanhe nas redes:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https_alvim)
